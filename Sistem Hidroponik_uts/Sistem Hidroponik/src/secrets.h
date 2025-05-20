@@ -1,0 +1,5 @@
+#define WIFI_SSID "your_wifi"
+#define WIFI_PASS "your_password"
+#define BLYNK_AUTH "your_blynk_token"
+#define API_URL "http://your-laravel-api/api"
+#define API_KEY "your_api_key"
